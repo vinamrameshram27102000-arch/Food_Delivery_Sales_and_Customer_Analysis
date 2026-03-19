@@ -2,10 +2,10 @@
 Food Delivery Sales &amp; Customer Analysis Dashboard – A comprehensive data visualization project analyzing sales trends, customer preferences, and restaurant performance. Built to provide actionable insights into delivery rates, payment methods, and food category distributions.
 # Food Delivery Sales & Customer Analysis Dashboard
 
-## 📌 Project Overview
+ Project Overview
 This project presents a detailed analysis of a food delivery service's performance. The dashboard tracks key performance indicators (KPIs), customer behavior, and operational efficiency to help stakeholders make data-driven decisions.
 
-## 📊 Key Insights & Features
+  Key Insights & Features
 The dashboard covers several critical areas of the business:
 
 * *Key Performance Indicators (KPIs):*
@@ -21,17 +21,17 @@ The dashboard covers several critical areas of the business:
 * *Restaurant Performance:* Identification of top-performing restaurants like 'Bukhara' and 'Saravana Bhavan' based on order volume.
 * *Interactive Filters:* Ability to slice data by Member Type (Gold/Regular), Payment Method, and Food Type.
 
-## 🛠️ Tools Used
+  Tools Used
 * *Data Visualization:* Power BI / Tableau (Jo bhi aapne use kiya ho)
 * *Data Processing:* Excel / SQL
 * *Design:* Custom UI/UX with a purple aesthetic for better readability.
 
-## 📁 Project Structure
+  Project Structure
 * Analysis_Dashboard.pbix : The main dashboard file.
 * Data/ : Folder containing the raw datasets (if applicable).
 * Screenshots/ : Images of the dashboard for quick preview.
 
-## 🚀 How to Use
+  How to Use
 1. Clone this repository.
 2. Open the dashboard file using [Power BI Desktop / Tableau Public].
 3. Use the slicers on the left to filter the data based on your requirements.
