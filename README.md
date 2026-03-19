@@ -22,18 +22,18 @@ The dashboard covers several critical areas of the business:
 * *Interactive Filters:* Ability to slice data by Member Type (Gold/Regular), Payment Method, and Food Type.
 
   Tools Used
-* *Data Visualization:* Power BI / Tableau (Jo bhi aapne use kiya ho)
-* *Data Processing:* Excel / SQL
+* *Data Visualization:* Power BI 
+* *Data Processing:* Excel 
 * *Design:* Custom UI/UX with a purple aesthetic for better readability.
 
   Project Structure
 * Analysis_Dashboard.pbix : The main dashboard file.
-* Data/ : Folder containing the raw datasets (if applicable).
+* Data/ : Folder containing the raw datasets 
 * Screenshots/ : Images of the dashboard for quick preview.
 
   How to Use
 1. Clone this repository.
-2. Open the dashboard file using [Power BI Desktop / Tableau Public].
+2. Open the dashboard file using [https://github.com/vinamrameshram27102000-arch/Food_Delivery_Sales_and_Customer_Analysis/blob/main/Screenshot_15-12-2025_16641_.jpeg].
 3. Use the slicers on the left to filter the data based on your requirements.
 
-4. https://github.com/vinamrameshram27102000-arch/Food_Delivery_Sales_and_Customer_Analysis/blob/main/Screenshot_15-12-2025_16641_.jpeg
+
