@@ -35,3 +35,5 @@ The dashboard covers several critical areas of the business:
 1. Clone this repository.
 2. Open the dashboard file using [Power BI Desktop / Tableau Public].
 3. Use the slicers on the left to filter the data based on your requirements.
+
+4. https://github.com/vinamrameshram27102000-arch/Food_Delivery_Sales_and_Customer_Analysis/blob/main/Screenshot_15-12-2025_16641_.jpeg
