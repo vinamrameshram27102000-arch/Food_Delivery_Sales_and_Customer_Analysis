@@ -26,10 +26,6 @@ The dashboard covers several critical areas of the business:
 * *Data Processing:* Excel 
 * *Design:* Custom UI/UX with a purple aesthetic for better readability.
 
-  Project Structure
-* Analysis_Dashboard.pbix : The main dashboard file.
-* Data/ : Folder containing the raw datasets 
-* Screenshots/ : Images of the dashboard for quick preview.
 
   How to Use
 1. Clone this repository.
