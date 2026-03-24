@@ -27,9 +27,4 @@ The dashboard covers several critical areas of the business:
 * *Design:* Custom UI/UX with a purple aesthetic for better readability.
 
 
-  How to Use
-1. Clone this repository.
-2. Open the dashboard file using [https://github.com/vinamrameshram27102000-arch/Food_Delivery_Sales_and_Customer_Analysis/blob/main/Screenshot_15-12-2025_16641_.jpeg].
-3. Use the slicers on the left to filter the data based on your requirements.
-
-
+<img src="https://github.com/vinamrameshram27102000-arch/Food_Delivery_Sales_and_Customer_Analysis/blob/51c064cda3f77de65eabb30ae6fe03744a0e1654/Screenshot_15-12-2025_16641_.jpeg" alt="Image Description" width= "700">
